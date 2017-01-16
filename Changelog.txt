@@ -1,2 +1,10 @@
 (1.0)
   - Initial game released.
+
+  (1.0.1)
+    - Added delay to dialogue.
+    - Added 'Health check' action.
+    - Added 'Change name' action
+    - Added more detail to 'help' action
+    - Added mention of 'help' in tutorial.
+    - Change 'fight' action to actually exit program when you die.
