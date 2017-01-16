@@ -1,6 +1,4 @@
-Implement 'Import time' to all dialogue.
 Implement 'Evasion chance' to all characters.
-Implement 'Check health status' action.
 Implement 'Health potions' and/or 'food' to restore health
 implement 'Weapons'
 implement 'Armour'
@@ -9,4 +7,5 @@ overhaul 'fighting mechanism'
 implement 'levelling up' system
 replace enemy and hero stats with 'list values'
 implament 'Inventory system'
-implament 'check health action'
+Implament 'while loop censor' to 'username selection'
+implament 'Statistics' system
