@@ -8,3 +8,9 @@
     - Added more detail to 'help' action
     - Added mention of 'help' in tutorial.
     - Change 'fight' action to actually exit program when you die.
+
+  (1.0.2)
+    - Moved functions to custom_func.py
+    - Moved definitons to statistics.py
+    - Streamlined 'help' action
+    - Minor bugfixes and adjustments.
